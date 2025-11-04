@@ -7,9 +7,8 @@
 <br><br>
 
 
-- I'm currently a proposals and business development coordinator at ANDRITZ Hydro
-- I code as a hobby working on my own fun projects
-- Right now I'm working on projects in Python, JS (React/Express) and VBA
+- I'm currently a process engineer in the mineral processing industry
+- I code as a hobby working on my own fun projects as well as projects related to my career. Check-out flowifylab.com
 <br><br><br><br>
 
 
